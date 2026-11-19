@@ -1,7 +1,5 @@
 # ENG-178-Final-Project
 
-# to do by thrusday
-
 # Athlete Overtraining Data Analysis
 
 Exploratory data analysis of a dataset of 600 athletes, looking at which training, recovery and physiological factors are linked to overtraining. The script generates a 7-page PDF summary report.
